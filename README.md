@@ -49,7 +49,7 @@ This project demonstrates essential embedded systems concepts including GPIO int
 | SCK | SPI Clock | P0.7 |
 | MOSI | Data MCU → RFID | P0.9 |
 | MISO | Data RFID → MCU | P0.8 |
-| RST | Reset | P0.21 |
+| RST | Reset | 3.3V|
 | GND | Ground | GND |
 | VCC | Power | 3.3V |
 
